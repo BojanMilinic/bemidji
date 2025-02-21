@@ -1,0 +1,10 @@
+# 1. Ignore everything
+*
+
+# 2. Except this .gitignore file
+!.gitignore
+
+# 3. Whitelist specific files or folders
+!01_inputfiles_prep.ipynb
+!02_data_convergence_automate.ipynb
+!03_master_oil_water_level.ipynb
